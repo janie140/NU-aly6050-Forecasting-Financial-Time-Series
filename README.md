@@ -1,1 +1,1 @@
-# NU-aly6050-Forecasting-Financial-Time-Series
+# NU-aly6050-Forecasting-Financial-Time-Series-using-Excel
